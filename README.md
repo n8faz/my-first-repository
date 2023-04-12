@@ -13,3 +13,5 @@ Important steps for git workflow:
 6. View previous changes with git log
 
 This text was added in a branch
+
+This text was added directly from GitHub.com
